@@ -24,3 +24,7 @@ hi!
 Working on inheritence and modules. From nf-core slack, dsl2 and module structure still being designed. Most recent might be in the following video.
 
 * https://nf-co.re/events/2021/bytesize-3-code-structure
+* Why the separation into three parts?
+  * functions.nf
+  * main.nf
+  * meta.yml 
