@@ -18,3 +18,9 @@ hi!
 ```
 
 * Which means nextflow subworkflows can be imported (w1, w2) without being redefined :)
+
+## Modules
+
+Working on inheritence and modules. From nf-core slack, dsl2 and module structure still being designed. Most recent might be in the following video.
+
+* https://nf-co.re/events/2021/bytesize-3-code-structure
